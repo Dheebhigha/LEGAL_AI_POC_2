@@ -1,0 +1,27 @@
+{
+  "bns": "The Bharatiya Nyaya Sanhita (BNS), 2023, is India's proposed criminal code replacing the Indian Penal Code (IPC) of 1860. It contains 358 sections aimed at simplifying, modernizing, and making criminal laws more citizen-friendly. The BNS focuses on faster justice, victim rights, and clarity. Key chapters include: (1) Offenses against the state — example: waging war against the government, punishable with life imprisonment or death. (2) Offenses against public tranquility — example: rioting, punishable up to 3 years imprisonment. (3) Offenses affecting human body — example: murder, punishable with life imprisonment or death; assault causing hurt, up to 1 year imprisonment or fine. (4) Offenses against property — example: theft, punishable up to 3 years imprisonment; robbery, punishable up to 10 years and fine. (5) Sexual offenses — example: rape, punishable with rigorous imprisonment of at least 10 years or life. (6) Defamation — punishable with up to 2 years imprisonment or fine. (7) Offenses relating to marriage — example: bigamy, punishable up to 7 years imprisonment. The BNS aims to simplify terminology, introduce electronic evidence, and remove archaic colonial-era provisions.",
+  
+  "bsa": "In India, there is no single 'Banking Services Act' (BSA), but there are multiple important acts regulating the banking and finance sector. Key acts include: (1) The Banking Regulation Act, 1949 — regulates the functioning of banking companies; non-compliance can lead to fines and license cancellation. (2) The Reserve Bank of India Act, 1934 — establishes RBI's authority over monetary policy and regulation. (3) The Negotiable Instruments Act, 1881 — covers cheques, promissory notes, and bills of exchange; dishonor of cheques can lead to imprisonment up to 2 years or fine (Section 138). (4) The SARFAESI Act, 2002 — empowers banks to recover non-performing assets without court intervention by seizing collateral; non-compliance can result in seizure and auction. (5) The Insolvency and Bankruptcy Code (IBC), 2016 — enables time-bound resolution of insolvency; failure to repay debts can result in liquidation. (6) The Prevention of Money Laundering Act (PMLA), 2002 — criminalizes money laundering; punishment includes imprisonment from 3 to 7 years and fines. (7) The Foreign Exchange Management Act (FEMA), 1999 — regulates foreign exchange transactions; violations can lead to penalties up to 3 times the amount involved and possible confiscation. (8) The Payment and Settlement Systems Act, 2007 — governs electronic payments and settlements, with penalties for contraventions up to ₹5 lakh and further fines for continued offense.",
+  
+  "case_summaries": [
+    "Case 1: XYZ Bank v. ABC Ltd. — Under the SARFAESI Act, the bank seized secured assets of ABC Ltd. for defaulting on loans. The court upheld the bank’s right to enforce without court intervention, supporting creditors' recovery rights.",
+    "Case 2: State v. Ravi Kumar — Under BNS provisions on assault, the accused was convicted for grievous hurt and sentenced to 5 years imprisonment and fine, showing strict application of new punishment provisions.",
+    "Case 3: Global Ltd. v. Union of India — In this case, unauthorized outward remittance under FEMA was penalized. The company was fined thrice the amount involved and executives faced further regulatory action.",
+    "Case 4: Rajesh Sharma v. State — In a bigamy case under BNS, the husband was sentenced to 5 years imprisonment for marrying again during the lifetime of the first wife.",
+    "Case 5: Meera v. State — In a cheque bounce case under Section 138 of the Negotiable Instruments Act, the drawer was sentenced to 1 year imprisonment and ordered to pay double the cheque amount as compensation."
+  ],
+
+  "legal_terms": {
+    "Mens Rea": "A Latin term meaning 'guilty mind'; it refers to the mental state or intention behind committing a crime.",
+    "Prima Facie": "Based on first impression; accepted as correct until proven otherwise.",
+    "Habeas Corpus": "A legal principle to protect individual freedom against unlawful detention; means 'you shall have the body' in Latin.",
+    "Affidavit": "A written statement confirmed by oath or affirmation, used as evidence in court.",
+    "Plaintiff": "A person who brings a case against another in a court of law.",
+    "Defendant": "An individual, company, or institution sued or accused in a court of law.",
+    "Injunction": "A court order requiring a party to do or refrain from doing certain acts.",
+    "Pro Bono": "Legal work undertaken voluntarily and without payment as a public service.",
+    "Res Judicata": "A matter that has already been judged; prevents the same dispute from being litigated again.",
+    "Sub Judice": "A case or matter currently under trial or being considered by a judge or court.",
+    "Caveat": "A notice filed to suspend certain proceedings until the notifier is heard."
+  }
+}
